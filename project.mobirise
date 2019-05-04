@@ -43,7 +43,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -105,39 +105,6 @@
         },
         {
           "_params": {
-            "token": "",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Расширения"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1w"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -153,7 +120,7 @@
           "title": "НАПИСАТЬ АДМИНИСТРАТОРУ",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">НАПИСАТЬ</a>",
           "form": {
-            "action": "mas.arefev.arefev@bk.ru",
+            "action": "maks.arefev.08@bk.ru",
             "alerts": {
               "success": "Ваш комментарий добавят в течение недели. В выходные добовляют быстрее."
             },
@@ -262,7 +229,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -506,7 +473,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -953,7 +920,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1027,7 +994,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1101,7 +1068,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1199,7 +1166,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1273,7 +1240,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1397,7 +1364,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1447,7 +1414,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1497,7 +1464,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1547,7 +1514,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1597,7 +1564,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1647,7 +1614,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1697,7 +1664,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1747,7 +1714,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1797,7 +1764,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1847,7 +1814,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1897,7 +1864,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1947,7 +1914,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -1997,7 +1964,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2047,7 +2014,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2097,7 +2064,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2147,7 +2114,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2221,7 +2188,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2319,7 +2286,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2369,7 +2336,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">СМОТРЕТЬ<br></a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page1.html\">СМОТРЕТЬ<br></a></li>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
