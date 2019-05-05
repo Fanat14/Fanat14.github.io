@@ -16,7 +16,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 74,
+    "uniqCompNum": 97,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -102,6 +102,41 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "новостная рассылка",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">войти</a>",
+          "form": {
+            "action": "maks.arefev.08@bk.ru",
+            "alerts": {
+              "success": "Спасибо за подписку"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "НОВОСТНАЯ РАССЫЛКА"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-22"
         },
         {
           "_params": {
@@ -321,7 +356,7 @@
             {
               "authorName": "<a href=\"page10.html\">СМОТРЕТЬ</a>",
               "authorBio": "Developer",
-              "text": "Три богатыря и морской царь"
+              "text": "<p>Три богатыря и морской царь</p><p>Три богатыря: Ход конем.</p>"
             },
             {
               "authorName": "смотреть",
@@ -505,6 +540,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 1 серия<br>Пчёлка",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -526,6 +574,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-19"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 2 серия<br>Опять двойка",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
         },
         {
           "_params": {
@@ -553,6 +614,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 3 серия<br>Межгалактическое общество",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -574,6 +648,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1b"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 4 серия<br>Матч",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d"
         },
         {
           "_params": {
@@ -601,6 +688,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 5 серия<br>Тест на прочность",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -622,6 +722,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1d"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 6 серия<br>Перевоспитатели",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
         },
         {
           "_params": {
@@ -649,6 +762,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 7 серия<br>Первое место&nbsp;",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2g"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -670,6 +796,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1f"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 8 серия<br>Игры разума",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2h"
         },
         {
           "_params": {
@@ -697,6 +836,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Барбоскины 9 серия<br>Развитие таланта",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -718,6 +870,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1h"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
         },
         {
           "_params": {
@@ -745,6 +910,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -766,6 +944,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1j"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l"
         },
         {
           "_params": {
@@ -793,6 +984,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -817,6 +1021,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -838,6 +1055,19 @@
           ],
           "_name": "video1",
           "_anchor": "video1-1m"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Три богатыря: Ход конем",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o"
         },
         {
           "_params": {
@@ -952,6 +1182,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "Мультфильм барби виртуальный мир 2017 в хорошем качестве",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -1023,6 +1266,19 @@
             }
           },
           "_anchor": "ext_menu-j"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Ералаш 2019 новый",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
         },
         {
           "_params": {
@@ -1100,6 +1356,19 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "всё что вы хотели знать но боялись спросить<br>14.03.19",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26"
+        },
+        {
+          "_params": {
             "showText": false
           },
           "media": {
@@ -1124,7 +1393,20 @@
         },
         {
           "_params": {
-            "showText": true
+            "showMeta": false
+          },
+          "title": "всё что вы хотели знать но боялись спросить<br>21.11.18",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27"
+        },
+        {
+          "_params": {
+            "showText": false
           },
           "media": {
             "image": {
@@ -1195,6 +1477,19 @@
             }
           },
           "_anchor": "ext_menu-l"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Щенячий патруль (сборник)",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25"
         },
         {
           "_params": {
@@ -1272,7 +1567,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Три богатыря и морской царь",
           "meta": "",
@@ -1309,7 +1604,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Три богатыря: Ход конем",
           "meta": "",
