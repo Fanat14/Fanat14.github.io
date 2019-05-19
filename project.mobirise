@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 120,
+    "uniqCompNum": 122,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -376,6 +376,24 @@
               "font-size": "15px"
             }
           }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<div>Михаил 19.05.2019 20:13</div><br><div>\n</div><div>\n</div><div>Здравствуйте,можно ли добавить телепередачи например: главная дорога ,уральские пельмени и т.к с телеканалов<br><br><br></div>",
+          "meta": "<b>АДМИНИСТРАТОР (Максим) 20:19<br>Здравствуйте, Михаил мы вскоре добавим. Наверное где-то через 1 неделю</b><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-3d"
         },
         {
           "_params": {
