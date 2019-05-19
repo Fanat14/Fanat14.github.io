@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 184,
+    "uniqCompNum": 186,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -612,47 +612,47 @@
               "text": "Мультфильм Шрек Хэллоуин 2010 смотреть HD"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page14.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "кракодил гена"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page15.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "Простоквашино (новые серии)"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<p><a href=\"page16.html\">смотреть</a></p>",
               "authorBio": "Developer",
               "text": "<i>оранжевая корова</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page17.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>Спокойной ночи малыши</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page18.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>нинзяго</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page19.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>пожарный сэм</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page20.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>лентяево</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page21.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>смурфики</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page22.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>С добрым утром малыши</i>"
             },
@@ -770,12 +770,12 @@
               "text": "<i>С добрым утром малыши</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page23.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>сказочный патруль</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page24.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>высокая кухня</i>"
             }
@@ -888,22 +888,22 @@
             {
               "authorName": "смотреть",
               "authorBio": "Developer",
-              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+              "text": ""
             },
             {
               "authorName": "смотреть",
               "authorBio": "Developer",
-              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+              "text": ""
             },
             {
               "authorName": "смотреть",
               "authorBio": "Developer",
-              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+              "text": ""
             },
             {
               "authorName": "смотреть",
               "authorBio": "Developer",
-              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+              "text": ""
             }
           ],
           "alias": "purity/components",
@@ -2359,7 +2359,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2438,7 +2438,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2517,7 +2517,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2596,7 +2596,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2675,7 +2675,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2754,7 +2754,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2833,7 +2833,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2912,7 +2912,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -2991,7 +2991,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3015,7 +3015,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3039,7 +3039,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3063,7 +3063,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3087,7 +3087,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3166,7 +3166,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3190,7 +3190,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3214,7 +3214,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3238,7 +3238,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MVG5ZohzMCA",
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
               "autoplay": false,
               "loop": false
             }
@@ -3255,7 +3255,7 @@
     },
     "page23.html": {
       "settings": {
-        "title": "Page 23",
+        "title": "сказочный патруль",
         "order": 42
       },
       "components": [
@@ -3305,12 +3305,36 @@
             }
           },
           "_anchor": "ext_menu-y"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-54"
         }
       ]
     },
     "page24.html": {
       "settings": {
-        "title": "Page 24",
+        "title": "высокая кухня",
         "order": 41
       },
       "components": [
@@ -3360,6 +3384,30 @@
             }
           },
           "_anchor": "ext_menu-z"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-55"
         }
       ]
     },
