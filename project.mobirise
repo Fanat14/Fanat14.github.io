@@ -16,7 +16,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 97,
+    "uniqCompNum": 117,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -105,6 +105,151 @@
         },
         {
           "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tarelka-barbos-97x98.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/10523691-460x458.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/98350114a6dbbac5021b9a898ba3ad02-600x571.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2b762dd92410e42c29b6b045edf1fd6f-birthday-paw-patrol-ideas-paw-patrol-cakes-ideas-600x647.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "барбоскины",
+          "caption1": "",
+          "title2": "3 богатыря",
+          "caption2": "",
+          "title3": "барби",
+          "caption3": "",
+          "title4": "щенячий патруль",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2s"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ВАМ ПОНРАВИТСЯ !",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>СМЕШНЫЕ ВИДЕО&nbsp;</p><p>youtube</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2t"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -127,7 +272,7 @@
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "НОВОСТНАЯ РАССЫЛКА"
+                "customTitle": "почта"
               }
             }
           },
@@ -205,6 +350,57 @@
               "font-size": "15px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "text1": "<br><br>\n<strong>Contacts</strong><br>\nEmail: maks.arefev.08@bk.ru<br><br><br>",
+          "text2": "<ul></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "maks.arefev.08@bk.ru",
+            "alerts": {
+              "success": "СПАСИБО"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2q"
         },
         {
           "_params": {
@@ -346,7 +542,7 @@
             {
               "authorName": "<a href=\"page8.html\">СМОТРЕТЬ</a>",
               "authorBio": "Developer",
-              "text": "<p><i>всё что вы хотели знать но боялись спросить</i></p><p><i>спасибо каналу:ngoc nganh KDA ,Disney - CHANNEL 2018</i></p>"
+              "text": "<p><i>всё что вы хотели знать ,но боялись спросить</i></p><p><i>спасибо каналу:ngoc nganh KDA ,Disney - CHANNEL 2018</i></p>"
             },
             {
               "authorName": "<a href=\"page9.html\">СМОТРЕТЬ</a>",
@@ -459,7 +655,7 @@
             {
               "authorName": "<a href=\"page8.html\">СМОТРЕТЬ</a>",
               "authorBio": "Developer",
-              "text": "<p><i>всё что вы хотели знать но боялись спросить</i></p><p><i>спасибо каналу:ngoc nganh KDA ,Disney - CHANNEL 2018</i></p>"
+              "text": "<p><i>всё что вы хотели знать ,но боялись спросить</i></p><p><i>спасибо каналу:ngoc nganh KDA ,Disney - CHANNEL 2018</i></p>"
             },
             {
               "authorName": "<a href=\"page9.html\">СМОТРЕТЬ</a>",
@@ -2388,6 +2584,181 @@
             }
           },
           "_anchor": "ext_menu-10"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "ПРИКОЛЬНЫЕ ВИДЕО<br>youtube",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-38"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=jg1zfeoNEmk",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-31"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yaG5v64y50g",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-33"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yaG5v64y50g",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-34"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yaG5v64y50g",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-35"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yaG5v64y50g",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-36"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=yaG5v64y50g",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-37"
         }
       ]
     },

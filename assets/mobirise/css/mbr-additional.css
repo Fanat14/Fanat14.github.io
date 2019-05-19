@@ -1,6 +1,12 @@
 #ext_menu-0 .navbar-toggler {
   color: #000;
 }
+#msg-box3-2t .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2t .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #header3-1x B {
   font-size: 15px;
 }
