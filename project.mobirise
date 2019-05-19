@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "catling.tv",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 186,
+    "uniqCompNum": 190,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -116,10 +116,10 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "ТРЕБУЕТСЯ РЕКЛАМА НА САЙТ",
-          "meta": "10 РУБ/ДЕНЬ",
+          "meta": "",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -133,10 +133,55 @@
           }
         },
         {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Смотреть мультики",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Бесплатно</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-59"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "САМОЕ ИНТЕРЕСНО",
+          "meta": "по мнению администратора",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-57"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": true,
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -219,13 +264,13 @@
             }
           },
           "title1": "барбоскины",
-          "caption1": "",
+          "caption1": "Самое интересное",
           "title2": "3 богатыря",
-          "caption2": "",
+          "caption2": "Самое интересное",
           "title3": "барби",
-          "caption3": "",
+          "caption3": "Самое интересное",
           "title4": "щенячий патруль",
-          "caption4": "",
+          "caption4": "Самое интересное",
           "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page10.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">смотреть</a>",
@@ -236,6 +281,111 @@
           ],
           "_name": "features1",
           "_anchor": "features1-2s"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fa07e2b0a40ee2223c7f98a623a7b5fe7996999d6a9a8040274577ad78943b1e-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sm-full-600x287.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/unnamed-512x512.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5-600x608.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Шрек",
+          "caption1": "Самое интересное",
+          "title2": "Смурфики",
+          "caption2": "Самое интересное",
+          "title3": "Сказочный патруль",
+          "caption3": "Самое интересное",
+          "title4": "простоквашино",
+          "caption4": "Самое интересное",
+          "button1": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Смотреть</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page21.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Смотреть</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page23.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Смотреть</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page15.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Смотреть</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-56"
         },
         {
           "_styles": {
