@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "catling.tv",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 196,
+    "uniqCompNum": 200,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -113,6 +113,46 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Хочешь что-бы твоё имя попало на сайт ?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "поставь лайк и прокомментируй запись",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page63.html\" data-toolbar=\"-mbrBtnMove\">Лайк,Комментарий</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5g"
         },
         {
           "_params": {
@@ -5917,7 +5957,7 @@
     },
     "page62.html": {
       "settings": {
-        "title": "Page 62",
+        "title": "молодец",
         "order": 3
       },
       "components": [
@@ -5967,12 +6007,25 @@
             }
           },
           "_anchor": "ext_menu-4q"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Молодец",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5j"
         }
       ]
     },
     "page63.html": {
       "settings": {
-        "title": "Page 63",
+        "title": "попасть на сайт",
         "order": 2
       },
       "components": [
@@ -6022,6 +6075,87 @@
             }
           },
           "_anchor": "ext_menu-4r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Комментировать</a>",
+          "form": {
+            "action": "mas.arefev.arefev@bk.ru",
+            "alerts": {
+              "success": "Молодец ! Твой шанс повысился"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщения"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-5h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Поставить лайк",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page62.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">поставить ЛАЙК</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5i"
         }
       ]
     },

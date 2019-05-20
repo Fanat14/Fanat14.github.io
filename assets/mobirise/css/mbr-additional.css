@@ -7,6 +7,12 @@
   font-size: 16px;
   font-family: 'Oswald', sans-serif;
 }
+#msg-box3-5g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #header3-39 SMALL {
   font-size: 36px;
 }
