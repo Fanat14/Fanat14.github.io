@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 201,
+    "uniqCompNum": 202,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -228,9 +228,9 @@
               "size": 0
             }
           },
-          "title1": "Первый участник<br>Даниил",
+          "title1": "Данил<br>Участник акции \"ПоПаСтЬ нА сАйТ\"",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Второй участник<br>???",
+          "title2": "Лиза<br>Участник акции \"ПоПаСтЬ нА сАйТ\"",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -880,7 +880,7 @@
             "showTitle": true,
             "showName": true,
             "showBio": false,
-            "count": "21",
+            "count": "9",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -1051,68 +1051,36 @@
               "authorName": "<a href=\"page10.html\">СМОТРЕТЬ</a>",
               "authorBio": "Developer",
               "text": "<p>Три богатыря и морской царь</p><p>Три богатыря: Ход конем.</p>"
-            },
-            {
-              "authorName": "<a href=\"page13.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "Мультфильм Шрек Хэллоуин 2010 смотреть HD"
-            },
-            {
-              "authorName": "<a href=\"page14.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "кракодил гена"
-            },
-            {
-              "authorName": "<a href=\"page15.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "Простоквашино (новые серии)"
-            },
-            {
-              "authorName": "<p><a href=\"page16.html\">смотреть</a></p>",
-              "authorBio": "Developer",
-              "text": "<i>оранжевая корова</i>"
-            },
-            {
-              "authorName": "<a href=\"page17.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>Спокойной ночи малыши</i>"
-            },
-            {
-              "authorName": "<a href=\"page18.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>нинзяго</i>"
-            },
-            {
-              "authorName": "<a href=\"page19.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>пожарный сэм</i>"
-            },
-            {
-              "authorName": "<a href=\"page20.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>лентяево</i>"
-            },
-            {
-              "authorName": "<a href=\"page21.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>смурфики</i>"
-            },
-            {
-              "authorName": "<a href=\"page22.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>С добрым утром малыши</i>"
-            },
-            {
-              "authorName": "<a href=\"page23.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>сказочный патруль</i>"
-            },
-            {
-              "authorName": "<a href=\"page24.html\">смотреть</a>",
-              "authorBio": "Developer",
-              "text": "<i>высокая кухня</i>"
             }
           ]
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "В связи с ошибками на сайте.",
+          "caption": "<p>Было удалено 12 мультиков с сайта поэтому- где-то через неделю могут появится мультики как шрек,кракодил гена и т.к.</p><p>Извиняемся за удаление, делаем всё возможное !!!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5l"
         }
       ]
     },
@@ -6186,7 +6154,7 @@
           "title": "Комментировать",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Комментировать</a>",
           "form": {
-            "action": "mas.arefev.arefev@bk.ru",
+            "action": "maks.arefev.08@bk.ru",
             "alerts": {
               "success": "Молодец ! Твой шанс повысился"
             },
