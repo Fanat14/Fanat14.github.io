@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "catling.tv",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 193,
+    "uniqCompNum": 196,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -978,245 +978,6 @@
               "authorName": "<a href=\"page24.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>высокая кухня</i>"
-            }
-          ]
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": false,
-            "count": "21",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "Мульты (стр 2)",
-          "items": [
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "мастерская умелые ручки"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "<i>Ангел бэби</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "<em>Крутой ребёнок</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Винкс</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Лунтик и его друзья</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Фиксики</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Пикачу</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Черепашки нинзя</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Буратино золотой ключик</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Пластилинки</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Мишутка</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Том и его друзья</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Николя</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Томас и его друзья</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Тоботы</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Поезда</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Куда угодно дверь”</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            }
-          ],
-          "alias": "purity/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-3p",
-          "testimonial": [
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "мастерская умелые ручки"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "<i>Ангел бэби</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "User",
-              "text": "<em>Крутой ребёнок</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Винкс</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Лунтик и его друзья</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Фиксики</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Пикачу</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Черепашки нинзя</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Буратино золотой ключик</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Пластилинки</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Мишутка</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Том и его друзья</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Николя</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Томас и его друзья</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Тоботы</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<i>Поезда</i>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": "<em>Куда угодно дверь”</em>"
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
-            },
-            {
-              "authorName": "смотреть",
-              "authorBio": "Developer",
-              "text": ""
             }
           ]
         }
@@ -4159,7 +3920,7 @@
     },
     "page27.html": {
       "settings": {
-        "title": "Page 27",
+        "title": "Умелые ручки",
         "order": 40
       },
       "components": [
@@ -4209,12 +3970,36 @@
             }
           },
           "_anchor": "ext_menu-3e"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=YMG6DYLD1tA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5d"
         }
       ]
     },
     "page28.html": {
       "settings": {
-        "title": "Page 28",
+        "title": "Ангел бёби",
         "order": 39
       },
       "components": [
@@ -4264,6 +4049,54 @@
             }
           },
           "_anchor": "ext_menu-3f"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=YMG6DYLD1tA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5e"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=YMG6DYLD1tA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-5f"
         }
       ]
     },
