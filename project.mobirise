@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "catling.tv",
-    "currentPage": "page64.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 192,
+    "uniqCompNum": 193,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -582,6 +582,24 @@
         },
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "<div>Елизавета 20.05.2019 21:09</div><br><div>\n</div><div>\n</div><div>Супер мне очень нравится<br><br><br></div>",
+          "meta": "<b>АДМИНИСТРАТОР (Максим) 20:42<br>ЗСпасибо ! За хороший отзыв о нас мы хотим увиличивать наш сайт пожалуйста напишите нам ваши любимые книги.</b><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-5c"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -839,12 +857,12 @@
               "text": "<i>С добрым утром малыши</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page23.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>сказочный патруль</i>"
             },
             {
-              "authorName": "смотреть",
+              "authorName": "<a href=\"page24.html\">смотреть</a>",
               "authorBio": "Developer",
               "text": "<i>высокая кухня</i>"
             }
