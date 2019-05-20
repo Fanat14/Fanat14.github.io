@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "catling.tv",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -880,7 +880,7 @@
             "showTitle": true,
             "showName": true,
             "showBio": false,
-            "count": "9",
+            "count": "15",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -1051,6 +1051,36 @@
               "authorName": "<a href=\"page10.html\">СМОТРЕТЬ</a>",
               "authorBio": "Developer",
               "text": "<p>Три богатыря и морской царь</p><p>Три богатыря: Ход конем.</p>"
+            },
+            {
+              "authorName": "<a href=\"page13.html\">смотреть</a>",
+              "authorBio": "Developer",
+              "text": "Мультфильм Шрек Хэллоуин 2010 смотреть HD"
+            },
+            {
+              "authorName": "<a href=\"page14.html\">смотреть</a>",
+              "authorBio": "Developer",
+              "text": "кракодил гена"
+            },
+            {
+              "authorName": "<a href=\"page15.html\">смотреть</a>",
+              "authorBio": "Developer",
+              "text": "Простоквашино (новые серии)"
+            },
+            {
+              "authorName": "<p><a href=\"page16.html\">смотреть</a></p>",
+              "authorBio": "Developer",
+              "text": "<i>оранжевая корова</i>"
+            },
+            {
+              "authorName": "<a href=\"page17.html\">смотреть</a>",
+              "authorBio": "Developer",
+              "text": "<i>Спокойной ночи малыши</i>"
+            },
+            {
+              "authorName": "<a href=\"page18.html\">смотреть</a>",
+              "authorBio": "Developer",
+              "text": "<i>нинзяго</i>"
             }
           ]
         },
@@ -1074,7 +1104,7 @@
             "overlayOpacity": 0.7
           },
           "title": "В связи с ошибками на сайте.",
-          "caption": "<p>Было удалено 12 мультиков с сайта поэтому- где-то через неделю могут появится мультики как шрек,кракодил гена и т.к.</p><p>Извиняемся за удаление, делаем всё возможное !!!</p>",
+          "caption": "<p>Было удалено 6 мультиков с сайта поэтому- где-то через неделю могут появится мультики как шрек,кракодил гена и т.к.</p><p>Извиняемся за удаление, делаем всё возможное !!!</p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -2421,7 +2451,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=DYV8-IwdYUg",
               "autoplay": false,
               "loop": false
             }
@@ -2500,7 +2530,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=aMHFMdAaBTQ",
               "autoplay": false,
               "loop": false
             }
@@ -2579,7 +2609,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=vhpw9G4At3c",
               "autoplay": false,
               "loop": false
             }
@@ -2658,7 +2688,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=vQTR1Jm5-G4",
               "autoplay": false,
               "loop": false
             }
@@ -2737,7 +2767,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=AFtaSlH4Oss",
               "autoplay": false,
               "loop": false
             }
@@ -2816,7 +2846,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=vUkBHbp2I14",
+              "src": "https://www.youtube.com/watch?v=lVK2t73G_4w",
               "autoplay": false,
               "loop": false
             }
